@@ -10,11 +10,9 @@ Nerve-ImageMask-Dataset.zip</a>, which was derived by us from
  Ultrasound Nerve Segmentation: Identify nerve structures in ultrasound images of the neck
 </b>
 </a>
-<br>
+<br><br>
 Please see also our first experiment <a href="https://github.com/atlan-antillia/Image-Segmentation-Nerve">Image-Segmentation-Nerve</a>
-
 <br>
-
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
 As shown below, the inferred masks look similar to the ground truth masks. <br>

@@ -1,4 +1,4 @@
-<h2>Tensorflow-Image-Segmentation-Augmented-Nerve (2024/12/09)</h2>
+<h2>Tensorflow-Image-Segmentation-Nerve (2024/12/09)</h2>
 
 This is the second experiment of Image Segmentation for Nerve 
  based on 

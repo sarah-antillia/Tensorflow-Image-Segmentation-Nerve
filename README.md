@@ -7,7 +7,7 @@ and  <a href="https://drive.google.com/file/d/1e3S6yhC_sWqk6Gf4_0fL7CI4gkepI497/
 Nerve-ImageMask-Dataset.zip</a>, which was derived by us from 
 <a href=" https://www.kaggle.com/competitions/ultrasound-nerve-segmentation/data">
 <b>
- Ultrasound Nerve Segmentation: Identify nerve structures in ultrasound images of the neck<br>
+ Ultrasound Nerve Segmentation: Identify nerve structures in ultrasound images of the neck
 </b>
 </a>
 <br>
